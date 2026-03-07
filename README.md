@@ -31,12 +31,10 @@ Durante o desenvolvimento, foram resolvidos problemas reais de ambiente:
 ## 📸 Capturas de Tela ##
 
 
-
-<img width="1452" height="373" alt="Captura de tela 2026-03-05 145808" src="https://github.com/user-attachments/assets/7d3e01d2-8aea-4b4b-b04f-c44d39f404ad" />
-
+<img width="654" height="366" alt="Interface Apache Airflow. Dags funcionando" src="https://github.com/user-attachments/assets/56f7ee91-1ccc-4d21-865f-3e4a91036208" />
 
 
-<img width="1274" height="534" alt="Captura de tela 2026-03-05 150629" src="https://github.com/user-attachments/assets/3a8ed0ee-e7cc-4a36-8ffb-2045c2dc18cf" />
+<img width="654" height="366" alt="Interface MySQL. Query gold_faturamento" src="https://github.com/user-attachments/assets/a8c2468f-63de-4fe2-89c9-2e685bd31ef9" />
 
 ## 🔧 Como rodar
 1. Clone o repositório.
