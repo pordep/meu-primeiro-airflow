@@ -44,9 +44,7 @@ with DAG(
         SELECT
             order_id,
             product_id,
-            -- Usamos shipping_limit_date porque order_purchase_timestamp não existe no seu CSV
             STR_TO_DATE(shipping_limit_date, '%Y-%m-%d %H:%i:%s') AS data_compra,
-            -- Usamos price porque payment_value não existe no seu CSV
             CAST(price AS DECIMAL(10, 2)) AS valor_item,
             freight_value AS valor_frete
         FROM bronze_vendas;
