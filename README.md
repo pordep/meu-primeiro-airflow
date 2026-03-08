@@ -33,6 +33,7 @@ Durante o desenvolvimento, foram resolvidos problemas reais de ambiente:
 
 <img width="654" height="366" alt="Interface Apache Airflow. Dags funcionando" src="https://github.com/user-attachments/assets/56f7ee91-1ccc-4d21-865f-3e4a91036208" />
 
+
 <img width="654" height="366" alt="Interface MySQL. Query gold_faturamento" src="https://github.com/user-attachments/assets/a8c2468f-63de-4fe2-89c9-2e685bd31ef9" />
 
 ## 🔧 Como rodar
